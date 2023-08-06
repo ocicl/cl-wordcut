@@ -2,9 +2,8 @@
 
 Word segmentation tools for ASEAN languages written in Common Lisp
 
-|---------+-------------------------------------------|
-| source  | git:http://github.com/veer66/cl-wordcut.git   |
-| commit  | 65645dd  |
-| systems | cl-wordcut |
-|---------+-------------------------------------------|
-
+|---------+---------------------------------------------|
+| source  | git:https://github.com/veer66/cl-wordcut.git |
+| commit  | 65645dd                                     |
+| systems | cl-wordcut                                  |
+|---------+---------------------------------------------|

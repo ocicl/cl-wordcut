@@ -7,4 +7,4 @@ Word segmentation tools for ASEAN languages written in Common Lisp
 | commit  | 65645dd                                     |
 | systems | cl-wordcut                                  |
 |---------+---------------------------------------------|
- 
+  
